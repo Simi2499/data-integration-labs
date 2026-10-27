@@ -1,2 +1,9 @@
 # data-integration-labs
-Completed lab coursework in the TH Cologne course data integration.
+Used to hand in completed lab coursework in the course data integration at TH Cologne.
+
+My name is Simone Schnieder, 
+
+- this is my [profile](https://github.com/Simi2499)
+- this is the [course repository](https://github.com/breuert/data-integration)
+- and this is my [team's project repository](https://github.com/LLohberg/DIS-3.3-Data-Integration)
+
