@@ -12,3 +12,6 @@ My name is Simone Schnieder,
 |labs/01|[labs/01](https://github.com/Simi2499/data-integration-labs/tree/main/labs/01)|
 
 <!--License: -->
+**License:**
+
+My texts are under CC BY 4.0. 
