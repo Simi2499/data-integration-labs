@@ -10,6 +10,7 @@ My name is Simone Schnieder,
 | **lab folders** | **links** |
 |--------| -------|
 |labs/01|[labs/01](https://github.com/Simi2499/data-integration-labs/tree/main/labs/01)|
+|labs/02|[labs/02](https://github.com/Simi2499/data-integration-labs/tree/main/labs/02)|
 
 <!--License: -->
 **License:**
